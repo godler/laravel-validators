@@ -22,7 +22,7 @@ After updating composer, add the ServiceProvider to the providers array in `conf
 > Laravel 5.5 uses Package Auto-Discovery, so doesn't require you to manually add the ServiceProvider
 
 ```php
-Dartui\PolishValidators\ServiceProvider::class
+Godler\Validators\ServiceProvider::class
 ```
 
 Now you need to add message to language files in `resources/lang/XX/validation.php`

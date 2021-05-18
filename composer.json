@@ -1,7 +1,7 @@
 
 
 {
-    "name": "klik/validators",
+    "name": "godler/validators",
     "description": "",
     "authors": [
         {
@@ -12,7 +12,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Klik\\Validators\\ServiceProvider"
+                "Godler\\Validators\\ServiceProvider"
             ],
             "aliases": {
                 
@@ -21,7 +21,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Klik\\Validators\\": ""
+            "Godler\\Validators\\": ""
         }
     }
 }

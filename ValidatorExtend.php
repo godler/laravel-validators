@@ -1,6 +1,6 @@
 <?php
 
-namespace Klik\Validators;
+namespace Godler\Validators;
 
 class ValidatorExtend {
 	public static function valid( $attribute, $value, $parameters ) {

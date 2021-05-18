@@ -1,6 +1,6 @@
 <?php
 
-namespace Klik\Validators;
+namespace Godler\Validators;
 
 class BaseValidator{
 

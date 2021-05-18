@@ -1,0 +1,27 @@
+
+
+{
+    "name": "klik/validators",
+    "description": "",
+    "authors": [
+        {
+            "name": " Mateusz Godlewski",
+            "email": "mateusz.godlewski@orange.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Klik\\Validators\\ServiceProvider"
+            ],
+            "aliases": {
+                
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Klik\\Validators\\": ""
+        }
+    }
+}
